@@ -34,4 +34,4 @@ jobs:
           context: src
           push: true
           tags:
-            theeedu/kube-news:${{github.run_number}}
+            theeedu/kube-news:latest
